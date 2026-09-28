@@ -1,0 +1,21 @@
+body {
+    background-color: #111827;
+    color: white;
+    font-family: Arial;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+}
+
+h1 {
+    color: #00d9ff;
+    text-align: center;
+}
+
+h2 {
+    color: #8b5cf6;
+}
